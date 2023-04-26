@@ -8,6 +8,7 @@ Curated list of ChatGPT resources for developers
 - [Demos](#demos): a list of awesome apps developed using ChatGPT
 - [Tutorials](#tutorials): explains how to use ChatGPT
 - [Open Source Models](#open-source-models): open source ChatGPT alternatives
+- [Others](#others): Other useful resources, like prompts
 
 ## GPT General Resources
 - [ChatGPT Official App](https://chat.openai.com)
@@ -39,3 +40,6 @@ Curated list of ChatGPT resources for developers
 - [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca): showcases instruction-following model fine tuned on Facebook LLaMA 7B model
 - [Alpaca Lora](https://github.com/tloen/alpaca-lora): another instruction-following model fine tuned on Facebook LLaMA 7B model
 - [Databricks Dolly V2](https://huggingface.co/databricks/dolly-v2-12b): LLM trained by Databricks, commercial use allowed
+
+## Others
+- [Awesome Prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
